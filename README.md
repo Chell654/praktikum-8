@@ -150,7 +150,7 @@ print('Program Selesai')
     * Inputan 't'   
   <img src="gambar/ss 1.png">
     * Inputan 'u'   
-      <img src="(Gambar/ubahdata.png">
+      <img src="gambar/ss 2.png">
 
     * Inputan 'h'   
       <img src="(Gambar/datahapus.png">
