@@ -156,7 +156,7 @@ print('Program Selesai')
       <img src="gambar/ss 3.png">
 
     * Inputan 'l'   
-      <img src="(Gambar/tampilandata.png">
+      <img src="gambar/ss 4.png">
 
     * Tampilan Data Sesudah Di Hapus
 
