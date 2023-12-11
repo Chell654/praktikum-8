@@ -153,7 +153,7 @@ print('Program Selesai')
       <img src="gambar/ss 2.png">
 
     * Inputan 'h'   
-      <img src="(Gambar/datahapus.png">
+      <img src="gambar/ss 3.png">
 
     * Inputan 'l'   
       <img src="(Gambar/tampilandata.png">
