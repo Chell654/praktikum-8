@@ -12,7 +12,7 @@ $${\color{lightblue}PYTHON}$$
 * **Diagram Class**
 * <img src="gambar/ss Diagram (2).png">
 * **Flowchart**
-![img](Gambar/flowchart.png)
+<img src="gambar/ss flowchart.png">
 
 ### **Penjelasan dan kode Programnya**   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
