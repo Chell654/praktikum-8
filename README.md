@@ -160,7 +160,7 @@ print('Program Selesai')
 
     * Tampilan Data Sesudah Di Hapus
 
-     <img src="Gambar/tampilandatahapus.png">
+     <img src="gambar/ss 5.png">
 
     * Inputan 'k'   
   <img src="Gambar/tampilanakhir.png">
