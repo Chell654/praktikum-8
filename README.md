@@ -166,7 +166,7 @@ print('Program Selesai')
   <img src="gambar/ss 6.png">
 
     * Inputan selain 't', 'l', 'u', 'h', dan 'k'    
-      <img src="Gambar/menu.png">
+      <img src="gambar/ss 7.png">
 
 
 # praktikum-8
