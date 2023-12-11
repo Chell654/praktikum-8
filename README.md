@@ -148,26 +148,25 @@ print('Program Selesai')
 ```
 * **Hasil Program**
     * Inputan 't'   
-    ![img](Gambar/tambahdata2.png)
-
+  <img src="gambar/ss 1.png">
     * Inputan 'u'   
-    ![img](Gambar/ubahdata.png)
+      <img src="(Gambar/ubahdata.png">
 
     * Inputan 'h'   
-    ![img](Gambar/datahapus.png)
+      <img src="(Gambar/datahapus.png">
 
     * Inputan 'l'   
-    ![img](Gambar/tampilandata.png)
+      <img src="(Gambar/tampilandata.png">
 
     * Tampilan Data Sesudah Di Hapus
 
-     ![img](Gambar/tampilandatahapus.png)
+     <img src="Gambar/tampilandatahapus.png">
 
     * Inputan 'k'   
-    ![img](Gambar/tampilanakhir.png)
+  <img src="Gambar/tampilanakhir.png">
 
     * Inputan selain 't', 'l', 'u', 'h', dan 'k'    
-    ![img](Gambar/menu.png)
+      <img src="Gambar/menu.png">
 
 
 # praktikum-8
