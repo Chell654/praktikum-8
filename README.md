@@ -169,4 +169,3 @@ print('Program Selesai')
       <img src="gambar/ss 7.png">
 
 
-# praktikum-8
