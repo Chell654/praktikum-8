@@ -10,8 +10,7 @@ $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * **Diagram Class**
-![img](Gambar/diagramclass.png)
-
+* <img src="gambar/ss Diagram (2).png">
 * **Flowchart**
 ![img](Gambar/flowchart.png)
 
